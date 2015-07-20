@@ -10,6 +10,6 @@ An open-source, lightweight and pure-text wikipedia graphical browser written in
 
 #### Linux:
 * Make sure you have Python 3.4 installed
-* Install the wikipedia module using pip
+* Install the [wikipedia module](https://github.com/goldsmith/Wikipedia) using pip
 ```pip install wikipedia```
 * Run run.py with python
