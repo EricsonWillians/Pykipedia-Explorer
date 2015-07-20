@@ -5,8 +5,8 @@ An open-source, lightweight and pure-text wikipedia graphical browser written in
 
 ## Intructions
 #### Windows:
-* Extract Pykepedia Explorer.rar
-* Run Pykepedia Explorer.exe
+* Extract Pykipedia Explorer.rar
+* Run Pykipedia Explorer.exe
 
 #### Linux:
 * Make sure you have Python 3.4 installed
